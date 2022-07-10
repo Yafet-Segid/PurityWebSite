@@ -102,6 +102,7 @@ ul {
 }
 
 p {
+  Display: flex;
   font-size: 15px;
   line-height: 30px;
   color:#fff;
@@ -746,6 +747,7 @@ Banner Style
 }
 
 .main-banner h2 {
+  Display: flex;
   color: #fff;
   font-size: 50px;
   font-weight: 700;
