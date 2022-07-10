@@ -104,7 +104,8 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  color: #fff;
+  color:#fff;
+  text-align: center;
 }
 
 img {
@@ -748,7 +749,8 @@ Banner Style
   color: #fff;
   font-size: 50px;
   font-weight: 700;
-  line-height: 66px;
+  line-height : 66px;
+  text-align: center;
   /* text-transform: uppercase; */
 }
 
