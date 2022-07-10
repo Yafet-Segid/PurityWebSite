@@ -732,7 +732,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 290px;
+  padding-top: 220px;
   padding-bottom: 240px;
   background-color: #2a2a2a;
 }
@@ -749,7 +749,7 @@ Banner Style
   font-size: 50px;
   font-weight: 700;
   line-height: 66px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .main-banner p {
@@ -2118,6 +2118,7 @@ body {
     margin-top: 30px;
   }
 }
+
 
 @media (max-width: 1200px) {
   
